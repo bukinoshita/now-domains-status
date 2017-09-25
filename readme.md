@@ -46,7 +46,7 @@ If `secret` is not passed, it will try to get your local `secret` stored on `.no
 
 ## Related
 
-- [now-domains](https://github.com/bukinoshita/now-domains) - CLI for this module
+- [now-domains](https://github.com/bukinoshita/now-domains) — CLI for this module
 - [now-domains-price](https://github.com/bukinoshita/now-domains-price) — Check now domains price
 
 
