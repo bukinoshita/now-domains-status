@@ -41,7 +41,7 @@ Type: `object`
 
 Type: `string`
 
-If `secret` is not passed, it will try to get your local `secret` stored on `.now/auth.json`. If you don't use [now](https://zeit.co/now), you must pass a `secret`. Get one [here](https://zeit.co/account/tokens)
+If `secret` is not passed, it will try to get your local `secret` stored on `.now/auth.json`. If you don't use [now](https://zeit.co/now), you must pass a `secret`. Get one [here](https://zeit.co/account/tokens).
 
 
 ## Related
